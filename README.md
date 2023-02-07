@@ -2,7 +2,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | Development | 💡 [Planned Features]() | 📆 [Milestones]() | 📊 [Projects](https://github.com/orgs/northwesttrees-gaming/projects/6) | 📚 [Wiki](https://github.com/northwesttrees-gaming/MoreBlox/wiki) |
-| Community | ⭐ [Feature Request]() | 💬 [Discussions]() |
+| Community | ⭐ [Feature Request]() | 💬 [Discussions](https://github.com/northwesttrees-gaming/MoreBlox/discussions/categories/general) |
 | Downloads | 📁 [CurseForge]() | 📁 [MCreator]() | | |
 
 ![image](https://user-images.githubusercontent.com/47284617/217363637-0c3183d4-518d-4838-b879-caef442ca793.png)
