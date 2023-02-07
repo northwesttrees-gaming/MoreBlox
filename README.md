@@ -1,7 +1,7 @@
 # Welcome to MoreBlox!
 | | | | | |
 | --- | --- | --- | --- | --- |
-| Development | 💡 [Planned Features]() | 📆 [Milestones]() | 📊 [Projects]() | 📚 [Wiki](https://github.com/northwesttrees-gaming/MoreBlox/wiki) |
+| Development | 💡 [Planned Features]() | 📆 [Milestones]() | 📊 [Projects](https://github.com/orgs/northwesttrees-gaming/projects/6) | 📚 [Wiki](https://github.com/northwesttrees-gaming/MoreBlox/wiki) |
 | Community | ⭐ [Feature Request]() | 💬 [Discussions]() |
 | Downloads | 📁 [CurseForge]() | 📁 [MCreator]() | | |
 
