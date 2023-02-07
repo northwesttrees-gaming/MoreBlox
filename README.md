@@ -1,9 +1,9 @@
 # Welcome to MoreBlox!
-| | | | | 
-| --- | --- | --- | --- |
-| Development | 💡 [Planned Features]() | 📊 [Projects]() | 📆 [Milestones]() |
-| Community |  📚 [Wiki]() | 💬 [Discussions]() | ⭐ [Feature Request]() |
-| Downloads | 📁 [MCreator]() | 📁 [CurseForge]() | |
+| | | | | |
+| --- | --- | --- | --- | --- |
+| Development | 💡 [Planned Features]() | 📊 [Projects]() | 📆 [Milestones]() | 📚 [Wiki]() |
+| Community | 💬 [Discussions]() | ⭐ [Feature Request]() |
+| Downloads | 📁 [MCreator]() | 📁 [CurseForge]() | | |
 
 ![image](https://user-images.githubusercontent.com/47284617/217363637-0c3183d4-518d-4838-b879-caef442ca793.png)
 
