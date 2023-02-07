@@ -1,9 +1,9 @@
 # Welcome to MoreBlox!
 | | | | | |
 | --- | --- | --- | --- | --- |
-| Development | 💡 [Planned Features]() | 📆 [Milestones](https://github.com/northwesttrees-gaming/MoreBlox/milestones) | 📊 [Projects](https://github.com/orgs/northwesttrees-gaming/projects/6) | 📚 [Wiki](https://github.com/northwesttrees-gaming/MoreBlox/wiki) |
+| Development | 💡 [Planned Features](https://github.com/northwesttrees-gaming/MoreBlox/wiki/Planned-Features) | 📆 [Milestones](https://github.com/northwesttrees-gaming/MoreBlox/milestones) | 📊 [Projects](https://github.com/orgs/northwesttrees-gaming/projects/6) | 📚 [Wiki](https://github.com/northwesttrees-gaming/MoreBlox/wiki) |
 | Community | ⭐ [Feature Request](https://github.com/northwesttrees-gaming/MoreBlox/discussions/categories/ideas) | 💬 [Discussions](https://github.com/northwesttrees-gaming/MoreBlox/discussions/categories/general) |
-| Downloads | 📁 [CurseForge]() | 📁 [MCreator]() | | |
+| Downloads | 📁 CurseForge | 📁 [MCreator](https://mcreator.net/modification/50261/more-blox-storage-mod) | | |
 
 ![image](https://user-images.githubusercontent.com/47284617/217363637-0c3183d4-518d-4838-b879-caef442ca793.png)
 
