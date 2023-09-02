@@ -1,4 +1,4 @@
-<h1>Planned Features</h1>
+# Planned Features
 
 <h2>Storage Blocks</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/42).  
