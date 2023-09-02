@@ -1,4 +1,4 @@
-<h1>Changes</h1>
+# Changes
 <h2>2.0.0 - The Barrel Update</h2>
 - Added custom barrel model.
 - Added custom textures for the top of the barrel when it's open.
