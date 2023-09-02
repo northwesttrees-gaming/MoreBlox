@@ -1,29 +1,31 @@
-# Storage Blocks
+## Storage Blocks
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/42).
-- [**Barrels**](https://github.com/northwesttrees-gaming/MoreBlox/issues/41) - *Loose/bulk goods*.
-- **Jars** - *Foods/preserved goods*.
-- **Sacks** - *Grain/small/dry goods*.
-- **Crates** - *Complex/odd goods*.
-- **Pallets** - *Block goods*.
-# Entities
+| Block | Description |
+| --- | --- |
+| [**Barrels**](https://github.com/northwesttrees-gaming/MoreBlox/issues/41) | *Loose/bulk goods*. |
+| **Jars** | *Foods/preserved goods*. |
+| **Sacks** | *Grain/small/dry goods*. |
+| **Crates** | *Complex/odd goods*. |
+| **Pallets** | *Block goods*. |
+## Entities
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/43).
-- **Bear** - *A large-sized hostile creature that mainly eats fish and fruits*. | [Wikipedia](https://en.wikipedia.org/wiki/Bear)
-- **Wisent** - *A land-sized animal that is territorial in nature. This animal is a European Bison*. | [Wikipedia](https://en.wikipedia.org/wiki/European_bison)
-- **Ox** - *A large-sized land animal similar to cattle but passive, unlike bulls. Good for heavy labour tasks*. | [Wikipedia](https://en.wikipedia.org/wiki/Ox)
-- **Moose** - *A large-sized land creature that is territorial in nature*. | [Wikipedia](https://en.wikipedia.org/wiki/Moose)
-- **Boar** - *A medium-sized land creature, basically a wild pig territorial in nature*.  | [Wikipedia](https://en.wikipedia.org/wiki/Wild_boar)
-- **Deer** - *A medium-sized land creature, passive in nature*. | [Wikipedia](https://en.wikipedia.org/wiki/Deer)
-- **Lynx** - *A medium-sized land creature that is aggressive when attacked*. | [Wikipedia](https://en.wikipedia.org/wiki/Lynx)
-- **Badger** - *A medium-sized land creature that is aggressive when attacked*. | [Wikipedia](https://en.wikipedia.org/wiki/Badger)
-- **Eagle** - *A large-sized bird that is neutral in nature*. | [Wikipedia](https://en.wikipedia.org/wiki/White-tailed_eagle)
-- **Hawk** - *A large-sized bird that is neutral in nature*. | [Wikipedia](https://en.wikipedia.org/wiki/Hawk)
-- **Duck** - *A medium-sized bird that is passive in nature*. | [Wikipedia](https://en.wikipedia.org/wiki/Duck)
-- **Crow** - *A medium-sized bird that is passive*. | [Wikipedia](https://en.wikipedia.org/wiki/Crow)
-- **Pigeon** - *A small-sized bird that is passive in nature*. | [Wikipedia](https://en.wikipedia.org/wiki/Columbidae)
+- **Bear** - *A large-sized hostile creature that mainly eats fish and fruits*. - [Wikipedia](https://en.wikipedia.org/wiki/Bear)
+- **Wisent** - *A land-sized animal that is territorial in nature. This animal is a European Bison*. - [Wikipedia](https://en.wikipedia.org/wiki/European_bison)
+- **Ox** - *A large-sized land animal similar to cattle but passive, unlike bulls. Good for heavy labour tasks*. - [Wikipedia](https://en.wikipedia.org/wiki/Ox)
+- **Moose** - *A large-sized land creature that is territorial in nature*. - [Wikipedia](https://en.wikipedia.org/wiki/Moose)
+- **Boar** - *A medium-sized land creature, basically a wild pig territorial in nature*.  - [Wikipedia](https://en.wikipedia.org/wiki/Wild_boar)
+- **Deer** - *A medium-sized land creature, passive in nature*. - [Wikipedia](https://en.wikipedia.org/wiki/Deer)
+- **Lynx** - *A medium-sized land creature that is aggressive when attacked*. - [Wikipedia](https://en.wikipedia.org/wiki/Lynx)
+- **Badger** - *A medium-sized land creature that is aggressive when attacked*. - [Wikipedia](https://en.wikipedia.org/wiki/Badger)
+- **Eagle** - *A large-sized bird that is neutral in nature*. - [Wikipedia](https://en.wikipedia.org/wiki/White-tailed_eagle)
+- **Hawk** - *A large-sized bird that is neutral in nature*. - [Wikipedia](https://en.wikipedia.org/wiki/Hawk)
+- **Duck** - *A medium-sized bird that is passive in nature*. - [Wikipedia](https://en.wikipedia.org/wiki/Duck)
+- **Crow** - *A medium-sized bird that is passive*. - [Wikipedia](https://en.wikipedia.org/wiki/Crow)
+- **Pigeon** - *A small-sized bird that is passive in nature*. - [Wikipedia](https://en.wikipedia.org/wiki/Columbidae)
 - **Pike** - *A large-sized fish*. | [Wikipedia](https://en.wikipedia.org/wiki/Esox)
 - **Perch** - *A medium-sized fish*. | [Wikipedia](https://en.wikipedia.org/wiki/Perch)
 - **Roach** - *A small-sized fish*. | [Wikipedia](https://en.wikipedia.org/wiki/Common_roach) 
-# Crops
+## Crops
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/44).
 - **Flax**- *Good for making linen fabric*.
 - **Cabbage** - *A large vegetable.*.
