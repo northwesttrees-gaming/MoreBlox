@@ -2,13 +2,13 @@
 ## Storage Blocks
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/42).  
   
-| Block | Description |
-| --- | --- |
-| [**Barrels**](https://github.com/northwesttrees-gaming/MoreBlox/issues/41) | *Loose/bulk goods*. |
-| **Jars** | *Foods/preserved goods*. |
-| **Sacks** | *Grain/small/dry goods*. |
-| **Crates** | *Complex/odd goods*. |
-| **Pallets** | *Block goods*. |
+Block | Description
+--- | ---
+[**Barrels**](https://github.com/northwesttrees-gaming/MoreBlox/issues/41) | *Loose/bulk goods*.
+**Jars** | *Foods/preserved goods*.
+**Sacks** | *Grain/small/dry goods*.
+**Crates** | *Complex/odd goods*.
+**Pallets** | *Block goods*.
 ## Entities
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/43).
 - **Bear** - *A large-sized hostile creature that mainly eats fish and fruits*. - [Wikipedia](https://en.wikipedia.org/wiki/Bear)
