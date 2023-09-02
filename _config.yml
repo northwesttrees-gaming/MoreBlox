@@ -1,1 +1,4 @@
 theme: minima
+header_pages:
+  - planned_features.md
+  - changes.md
