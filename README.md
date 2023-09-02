@@ -1,6 +1,4 @@
-| [Planned Features](https://northwesttrees-gaming.github.io/MoreBlox/planned_features) |
-| --- |
-# Welcome To MoreBlox!
+# Welcome To MoreBlox GitHub!
 MoreBlox is a Minecraft modification made with MCreator. The modification focuses on medieval things such as foods, crops, animals and mechanics. MoreBlox has recently moved over to version 2 which focuses on an outline rather than just storage.
 
 # Quick Pages
