@@ -1,6 +1,6 @@
-# Planned Features
+<h1>Planned Features</h1>
 
-## Storage Blocks
+<h2>Storage Blocks</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/42).  
   
 | **Name** | **Description** |
@@ -10,7 +10,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | **Crates** | *Complex/odd goods*. |
 | **Pallets** | *Block goods*. |
 
-## Entities
+<h2>Entities</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/43).
 
 | **Name** | **Description** |
@@ -31,7 +31,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | **Perch** | *A medium-sized fish*. |
 | **Roach** | *A small-sized fish*. |
 
-## Crops
+<h2>Crops</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/44).
 
 | **Name** | **Description** |
@@ -46,7 +46,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | **Plum Tree** | *A fruit that can be made into food or drink*. |
 | **Cherry Tree** | *A fruit that can be made into food or drink*. |
 
-## Carts
+<h2>Carts</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/45).
 
 | **Name** | **Description** |
@@ -56,7 +56,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | **Tank Cart** | *A type of cart that can store liquids for easy transport*. |
 | **Animal Cart** | *A type of cart that can transport up to 8 animals in*. |
 
-## Weapons
+<h2>Weapons</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/46).
 
 | **Name** | **Description** |
@@ -71,7 +71,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | **Pickforks** | *A weapon that can poke through light armour and do a small bit of damage*. |
 | **Flail** | *A wooden item that does moderate damage to unarmored entities* |
 
-## Signs
+<h2>Signs</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/47).
 
 | **Name** | **Description** |
@@ -81,7 +81,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | **Number Signs** | *Signs that use the number 0 to 9*. |
 | **Character Signs** | Signs that use the characters on the common keyboard*. |
 
-## Crafting Stations
+<h2>Crafting Stations</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/48).
 
 | **Name** | **Description** |
@@ -94,7 +94,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | **Lablers Table** | *A crafting table used to craft signs*. |
 | **Seedery Table** | *A crafting table used to process grain and craft seeds*. |
 
-## Minting & Traders
+<h2>Minting & Traders</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/49).
 
 | **Name** | **Description** |
@@ -111,7 +111,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | **Brewer** | *A trader that sells items for brewing*. |
 | **Barreler** | *A trader that sells resources for making storage blocks*. |
 
-## Food
+<h2>Food</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/50).
 
 | **Name** | **Description** |
@@ -151,7 +151,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | Wheat Rolls | Baked product. |
 | White Bread | Baked product. |
 
-## Drinks
+<h2>Drinks</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/51).
 
 | **Name** | **Description** |
@@ -173,7 +173,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 | Milk | Can be consumed or made into sour milk |
 | Sour Milk | Can be made into cheese |
 
-## Resources
+<h2>Resources</h2>
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/52).
 
 | **Name** | **Description** |
