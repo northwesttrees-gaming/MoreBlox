@@ -1,3 +1,4 @@
+# Planned Features
 ## Storage Blocks
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/42).
 | Block | Description |
@@ -37,14 +38,14 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 - **Apple Tree** - *A fruit that can be made into food or drink*.
 - **Plum Tree** - *A fruit that can be made into food or drink*.
 - **Cherry Tree** - *A fruit that can be made into food or drink*.
-# Carts
+## Carts
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/45).
 - **Passenger Cart** - *A cart that someone can sit or stand in*.
 - **Cargo Cart** - *A cart that can transport lots of items*.
 - **Balista Cart** - *A large weapon that shoots projectile bolts*.
 - **Tank Cart** - *A type of cart that can store liquids for easy transport*.
 - **Animal Cart** - *A type of cart that can transport up to 8 animals in*.
-# Weapons
+## Weapons
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/46).
 - **Maces** - *A metal stick with a ball that can inflict heavy armour damage*.
 - **Great Sword** - *A heavy damage sword that can deal a lot of damage*.
@@ -56,14 +57,14 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 - **Spears** - *A throwing item that is good for dealing major damage to medium or large creatures*.
 - **Pickforks** - *A weapon that can poke through light armour and do a small bit of damage*.
 - **Flail** - *A wooden item that does moderate damage to unarmored entities*
-# Signs
+## Signs
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/47).
 - **Location Signs** - *Signs that depict a type of place or location e.g. blacksmith*.
 - **Arrow Signs** - *Directional signs that can point to places*.
 - **Letter Signs** - *Signs that use the A to Z letters*.
 - **Number Signs** - *Signs that use the number 0 to 9*.
 - **Character Signs** - Signs that use the characters on the common keyboard*.
-# Crafting Stations
+## Crafting Stations
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/48).
 - **Storage Table** - *A crafting table for crafting storage blocks*.
 - **Weapon Table** - *A crafting table used for crafting weapons*.
@@ -73,7 +74,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 - **Carters Table** - *A crafting table used to craft carts*.
 - **Lablers Table** - *A crafting table used to craft signs*.
 - **Seedery Table** - *A crafting table used to process grain and craft seeds*.
-# Minting & Traders
+## Minting & Traders
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/49).
 - **Copper Coins** - *Cheap valued currency*.
 - **Silver Coins** - *Moderate valued currency*.
@@ -87,7 +88,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 - **Carpenter** - *A trader that sells supplies for making wooden objects*.
 - **Brewer** - *A trader that sells items for brewing*.
 - **Barreler** *A trader that sells resources for making storage blocks*.
-# Food
+## Food
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/50).
 - Cherry
 - Pear
@@ -124,7 +125,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 - Wheat Bread
 - Wheat Rolls
 - White Bread
-# Drinks
+## Drinks
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/51).
 - Apple Juice
 - Berry Juice
@@ -143,7 +144,7 @@ More information can be found [here](https://github.com/northwesttrees-gaming/Mo
 - Wheat Beer
 - Milk
 - Sour Milk
-# Resources
+## Resources
 More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/52).
 - Flax Seeds
 - Poppy Seeds
