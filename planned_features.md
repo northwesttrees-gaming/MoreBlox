@@ -1,6 +1,7 @@
 # Planned Features
 ## Storage Blocks
-More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/42).
+More information can be found [here](https://github.com/northwesttrees-gaming/MoreBlox/issues/42).  
+  
 | Block | Description |
 | --- | --- |
 | [**Barrels**](https://github.com/northwesttrees-gaming/MoreBlox/issues/41) | *Loose/bulk goods*. |
