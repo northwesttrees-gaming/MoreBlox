@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: dark
 header_pages:
   - planned_features.md
   - changes.md
