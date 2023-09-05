@@ -14,7 +14,7 @@ td, p, h1, h2, h3, h4, h5, h6 {
 table tr:nth-child(even) {
   background-color: #434343;
 }
-table tr:nth-child(uneven) {
+table tr:nth-child(odd) {
   background-color: #545454;
 }
 tr:first-child {
