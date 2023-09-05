@@ -2,9 +2,15 @@ body {
   background-color: #323232;
   color: #F5F5F5;
 }
+td, p, h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
 .site-title,.site-title:visited {
-    color: #F5F5F5;
+  color: #F5F5F5;
 }
 .site-nav .page-link {
-    color: #F5F5F5;
+  color: #F5F5F5;
+}
+tr:first-child {
+  background-color: #55FF55;
 }
