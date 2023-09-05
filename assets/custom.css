@@ -15,8 +15,8 @@ tr:first-child {
   background-color: #33AA33;
 }
 tr:nth-child(uneven) {
-  background-color: #FDFDFD;
+  background-color: #F8F8F8;
 }
 tr:nth-child(even) {
-  background-color: #FAFAFA;
+  background-color: #F9F9F9;
 }
