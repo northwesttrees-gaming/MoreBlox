@@ -12,11 +12,11 @@ td, p, h1, h2, h3, h4, h5, h6 {
   color: #F5F5F5;
 }
 tr:first-child {
-  background-color: #33AA33;
+  background-color: #258825;
 }
-tr:nth-child(uneven) {
-  background-color: #F8F8F8;
+table tr:nth-child(even) {
+  background-color: #434343;
 }
-tr:nth-child(even) {
-  background-color: #F9F9F9;
+table tr:nth-child(uneven) {
+  background-color: #545454;
 }
