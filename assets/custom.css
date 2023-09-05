@@ -24,6 +24,6 @@ table {
   border: 2px solid #76B223;
   border-radius: 20px;
 }
-.post-title {
+article .post-content h1 {
   display:none;
 }
