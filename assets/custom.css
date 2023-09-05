@@ -17,6 +17,10 @@ table tr:nth-child(even) {
 table tr:nth-child(odd) {
   background-color: #545454;
 }
-tr:first-child {
+table tr:first-child {
   background-color: #76B223;
+}
+table {
+  border: 2px solid #76B223;
+  border-radius: 20px;
 }
