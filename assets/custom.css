@@ -11,12 +11,12 @@ td, p, h1, h2, h3, h4, h5, h6 {
 .site-nav .page-link {
   color: #F5F5F5;
 }
-tr:first-child {
-  background-color: #258825;
-}
 table tr:nth-child(even) {
   background-color: #434343;
 }
 table tr:nth-child(uneven) {
   background-color: #545454;
+}
+tr:first-child {
+  background-color: #258825;
 }
