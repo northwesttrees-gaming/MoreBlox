@@ -11,7 +11,7 @@ body {
 li, td, p, h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
 }
-.page-content a:visited {
+.page-content a:visited, .page-content a {
   color: #76B223;
 }
 .site-title,.site-title:visited {
@@ -30,8 +30,7 @@ table tr:first-child {
   background-color: #76B223;
 }
 table {
-  border: 2px solid #76B223;
-  border-radius: 20px;
+  border: 2px solid #76B223
 }
 article .post-content h1 {
   display: none; 
