@@ -8,11 +8,11 @@ body {
 .site-header div a, .site-footer div div div ul li {
   font-weight: bold;
 }
+li, td, p, h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
 .page-content a:visited {
   color: #76B223;
-}
-a, li, td, p, h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
 }
 .site-title,.site-title:visited {
   color: #F5F5F5;
