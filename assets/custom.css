@@ -2,7 +2,16 @@ body {
   background-color: #323232;
   color: #F5F5F5;
 }
-td, p, h1, h2, h3, h4, h5, h6 {
+.site-header, .site-footer {
+  background-color: #76B223;
+}
+.site-header div a, .site-footer div div div ul li {
+  font-weight: bold;
+}
+.page-content a:visited {
+  color: #76B223;
+}
+a, li, td, p, h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
 }
 .site-title,.site-title:visited {
@@ -25,5 +34,5 @@ table {
   border-radius: 20px;
 }
 article .post-content h1 {
-  display: none;
+  display: none; 
 }
