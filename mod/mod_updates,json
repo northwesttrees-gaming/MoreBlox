@@ -1,0 +1,15 @@
+{
+  "homepage": "https://github.com/northwesttrees-gaming/Real-Time-Mod",
+  "1.20.1": {
+    "2.1.0": "Added 62 new barrels\nadded crafting stations for storage and carts\nAdded recipe helper for crafting stations\nAdded Entity Horse Carts\nAdded Load Key and Follow Key"
+  },
+  "1.19.4": {
+    "2.0.0": "Added 62 new barrels\nadded crafting stations for storage and carts\nAdded recipe helper for crafting stations\nAdded Entity Horse Carts\nAdded Load Key and Follow Key"
+  },
+  "promos": {
+    "1.20.1-latest": "2.1.0",
+    "1.20.1-recommended": "2.1.0",
+    "1.19.4-latest": "2.0.0",
+    "1.19.4-recommended": "2.0.0"
+  }
+}
